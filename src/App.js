@@ -26,7 +26,7 @@ function App() {
     let leftMargin = window.innerWidth / 3;
     let unit = window.innerWidth / 20;
     return (
-        <div style={{backgroundColor: "#000", width: "100vw", height: "100vh"}} >
+        <div style={{backgroundColor: "#000000", width: "100vw", height: "100vh"}} >
 
             <div
                 style={{
